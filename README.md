@@ -43,7 +43,7 @@ Essayes de reprendre le modèle des 2 tests déjà écrits en modifiant seulemen
 
 ## How it works
 
-- `git clone https://github.com/Fr0ggym4n/Gilded-Rose-THP-Next/edit/main/README.md`
+- `git clone https://github.com/Fr0ggym4n/Gilded-Rose-THP-Next link`
 - `cd link`
 - `npm i`
 - `npm test`
