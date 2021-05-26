@@ -52,4 +52,4 @@ You good to go !  ✅
 
 ## Authors
 
-@Fr0ggym4n
+[@Fr0ggym4n](https://github.com/Fr0ggym4n)
