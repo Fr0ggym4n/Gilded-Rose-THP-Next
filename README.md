@@ -16,9 +16,9 @@ Il a été développé par Leeroy, une personne pleine de bon sens qui est parti
 
 Votre mission est d'ajouter une nouvelle fonctionnalité à notre système pour que nous puissions commencer à vendre un nouveau type de produit.
 
-#### Gilded Rose Rules
+## Gilded Rose Rules
 
-##### Program
+### Program
 
 Comme tu peux le voir, la fonction updateQuality est presque incompréhensible, on a donc également besoin de toi (en plus de rajouter les éléments "Conjured") pour rendre tout ce code plus joli !
 Tu peux faire les changements que tu veux à la classe Shop et ajouter autant de code que tu veux, tant que tout fonctionne correctement.
@@ -28,7 +28,7 @@ Penses à bien utiliser les nouveautés ES6 que tu as appris au début de la for
 
 Juste une précision, un produit ne peut jamais voir sa qualité augmenter au-dessus de 50, cependant "Sulfuras" est un objet légendaire et comme tel sa qualité est de 80 et il ne change jamais.
 
-##### Test
+### Test
 
 Tu as pu remarquer qu'un dossier spec était disponible, à quoi peut-il bien servir ?
 À l'intérieur, tu trouveras un fichier JS dans lequel il y a quelques tests qui permettront de tester si ton programme réponds aux attentes des différentes règles :
