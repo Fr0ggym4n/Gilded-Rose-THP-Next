@@ -49,3 +49,7 @@ Essayes de reprendre le modèle des 2 tests déjà écrits en modifiant seulemen
 - `npm test`
 
 You good to go !  ✅ 
+
+## Authors
+
+@Fr0ggym4n
